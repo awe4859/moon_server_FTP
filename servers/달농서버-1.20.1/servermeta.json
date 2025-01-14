@@ -5,7 +5,7 @@
     "name": "달농서버 (Minecraft 1.20.1)",
     "description": "달농서버 Running Minecraft 1.20.1 (Forge v47.3.22)",
     "icon": "How to set the server icon: https://github.com/dscalzi/Nebula#setting-the-server-icon",
-    "address": "118.43.72.120",
+    "address": "118.43.72.120:25565",
     "discord": {
       "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
       "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
