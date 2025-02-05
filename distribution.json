@@ -623,46 +623,6 @@
           }
         },
         {
-          "id": "com.pam:pamhc2crops:1.0.3@jar",
-          "name": "Pam's HarvestCraft 2 - Crops",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1050402,
-            "url": "https://awe4859.github.io/moon_server_FTP/servers/%EB%8B%AC%EB%86%8D%EC%84%9C%EB%B2%84-1.20.1/forgemods/required/pamhc2crops-1.20-1.0.3.jar",
-            "MD5": "3b4a219f1bc87f89256ca84ff6059f7a"
-          }
-        },
-        {
-          "id": "com.pam:pamhc2foodcore:1.0.5@jar",
-          "name": "Pam's HarvestCraft 2 - Food Core",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 911489,
-            "url": "https://awe4859.github.io/moon_server_FTP/servers/%EB%8B%AC%EB%86%8D%EC%84%9C%EB%B2%84-1.20.1/forgemods/required/pamhc2foodcore-1.20.4-1.0.5.jar",
-            "MD5": "744646a811ced1c079c19a7df31388fe"
-          }
-        },
-        {
-          "id": "com.pam:pamhc2foodextended:1.0.1@jar",
-          "name": "Pam's HarvestCraft 2 - Food Extended",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 2062882,
-            "url": "https://awe4859.github.io/moon_server_FTP/servers/%EB%8B%AC%EB%86%8D%EC%84%9C%EB%B2%84-1.20.1/forgemods/required/pamhc2foodextended-1.20.4-1.0.1.jar",
-            "MD5": "dc927874aca1d62cd9dbc69e044d9ed9"
-          }
-        },
-        {
-          "id": "com.pam:pamhc2trees:1.0.2@jar",
-          "name": "Pam's HarvestCraft 2 - Trees",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 777303,
-            "url": "https://awe4859.github.io/moon_server_FTP/servers/%EB%8B%AC%EB%86%8D%EC%84%9C%EB%B2%84-1.20.1/forgemods/required/pamhc2trees-1.20-1.0.2.jar",
-            "MD5": "39a319227f0fb70bec5f9b6d7bd9b34f"
-          }
-        },
-        {
           "id": "io.github.jamalam360:rightclickharvest:3.2.0+1.20.1-forge@jar",
           "name": "Right Click Harvest",
           "type": "ForgeMod",
