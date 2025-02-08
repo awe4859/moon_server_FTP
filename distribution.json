@@ -443,6 +443,16 @@
           }
         },
         {
+          "id": "squeek.appleskin:appleskin:2.5.1+mc1.20.1@jar",
+          "name": "AppleSkin",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 47428,
+            "url": "https://awe4859.github.io/moon_server_FTP/servers/%EB%8B%AC%EB%86%8D%EC%84%9C%EB%B2%84-1.20.1/forgemods/required/appleskin-forge-mc1.20.1-2.5.1.jar",
+            "MD5": "dae63cea9c951dda542a4005ceef3953"
+          }
+        },
+        {
           "id": "net.mcreator:aquaculturedelight:1.0.0@jar",
           "name": "Aquaculture Delight",
           "type": "ForgeMod",
@@ -480,6 +490,16 @@
             "size": 2613393,
             "url": "https://awe4859.github.io/moon_server_FTP/servers/%EB%8B%AC%EB%86%8D%EC%84%9C%EB%B2%84-1.20.1/forgemods/required/cfm-forge-1.20.1-7.0.0-pre36.jar",
             "MD5": "faf78627dad9c9c04e7a4fa8992c54dc"
+          }
+        },
+        {
+          "id": "com.blamejared:controlling:12.0.2@jar",
+          "name": "Controlling",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 115280,
+            "url": "https://awe4859.github.io/moon_server_FTP/servers/%EB%8B%AC%EB%86%8D%EC%84%9C%EB%B2%84-1.20.1/forgemods/required/Controlling-forge-1.20.1-12.0.2.jar",
+            "MD5": "952274bc9994bba9733e8747558f73fa"
           }
         },
         {
@@ -563,6 +583,16 @@
           }
         },
         {
+          "id": "journeymap:journeymap:5.10.3@jar",
+          "name": "Journeymap",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 7160405,
+            "url": "https://awe4859.github.io/moon_server_FTP/servers/%EB%8B%AC%EB%86%8D%EC%84%9C%EB%B2%84-1.20.1/forgemods/required/journeymap-1.20.1-5.10.3-forge.jar",
+            "MD5": "2181bd6b7161f06726560b9382235611"
+          }
+        },
+        {
           "id": "com.hyfata.najoan.koreanpatch.client:koreanpatch:1.6.11+mc1.20.1@jar",
           "name": "Korean Patch",
           "type": "ForgeMod",
@@ -613,6 +643,16 @@
           }
         },
         {
+          "id": "yalter.mousetweaks:mousetweaks:2.25.1@jar",
+          "name": "Mouse Tweaks",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 76237,
+            "url": "https://awe4859.github.io/moon_server_FTP/servers/%EB%8B%AC%EB%86%8D%EC%84%9C%EB%B2%84-1.20.1/forgemods/required/MouseTweaks-forge-mc1.20.1-2.25.1.jar",
+            "MD5": "ce4b5bbb9ef6a7905c458ab599ef4cb2"
+          }
+        },
+        {
           "id": "net.irisshaders.iris:oculus:1.8.0@jar",
           "name": "Oculus",
           "type": "ForgeMod",
@@ -660,6 +700,72 @@
             "size": 41044,
             "url": "https://awe4859.github.io/moon_server_FTP/servers/%EB%8B%AC%EB%86%8D%EC%84%9C%EB%B2%84-1.20.1/forgemods/required/smoothboot(reloaded)-mc1.20.1-0.0.4.jar",
             "MD5": "c8cd5ae14d99796fd92c95a353e96211"
+          }
+        },
+        {
+          "id": "Bliss_v2.0.4_(Chocapic13_Shaders_edit).zip",
+          "name": "Bliss_v2.0.4_(Chocapic13_Shaders_edit).zip",
+          "type": "File",
+          "artifact": {
+            "size": 1669167,
+            "url": "https://awe4859.github.io/moon_server_FTP/servers/%EB%8B%AC%EB%86%8D%EC%84%9C%EB%B2%84-1.20.1/files/shaderpacks/Bliss_v2.0.4_(Chocapic13_Shaders_edit).zip",
+            "MD5": "fb757db17e378d3174611d4d0698280d",
+            "path": "shaderpacks/Bliss_v2.0.4_(Chocapic13_Shaders_edit).zip"
+          }
+        },
+        {
+          "id": "BSL_v8.4.zip",
+          "name": "BSL_v8.4.zip",
+          "type": "File",
+          "artifact": {
+            "size": 1105442,
+            "url": "https://awe4859.github.io/moon_server_FTP/servers/%EB%8B%AC%EB%86%8D%EC%84%9C%EB%B2%84-1.20.1/files/shaderpacks/BSL_v8.4.zip",
+            "MD5": "9cbe8c2b70a992a50853875482eec66a",
+            "path": "shaderpacks/BSL_v8.4.zip"
+          }
+        },
+        {
+          "id": "ComplementaryReimagined_r5.4.zip",
+          "name": "ComplementaryReimagined_r5.4.zip",
+          "type": "File",
+          "artifact": {
+            "size": 452405,
+            "url": "https://awe4859.github.io/moon_server_FTP/servers/%EB%8B%AC%EB%86%8D%EC%84%9C%EB%B2%84-1.20.1/files/shaderpacks/ComplementaryReimagined_r5.4.zip",
+            "MD5": "1a67030845ad123f56a3b5f6d8fb9b7c",
+            "path": "shaderpacks/ComplementaryReimagined_r5.4.zip"
+          }
+        },
+        {
+          "id": "ComplementaryUnbound_r5.4.zip",
+          "name": "ComplementaryUnbound_r5.4.zip",
+          "type": "File",
+          "artifact": {
+            "size": 452408,
+            "url": "https://awe4859.github.io/moon_server_FTP/servers/%EB%8B%AC%EB%86%8D%EC%84%9C%EB%B2%84-1.20.1/files/shaderpacks/ComplementaryUnbound_r5.4.zip",
+            "MD5": "94f56d5c5c343b9a0f4ad7eb135f9afa",
+            "path": "shaderpacks/ComplementaryUnbound_r5.4.zip"
+          }
+        },
+        {
+          "id": "Kappa_v5.2.zip",
+          "name": "Kappa_v5.2.zip",
+          "type": "File",
+          "artifact": {
+            "size": 3868665,
+            "url": "https://awe4859.github.io/moon_server_FTP/servers/%EB%8B%AC%EB%86%8D%EC%84%9C%EB%B2%84-1.20.1/files/shaderpacks/Kappa_v5.2.zip",
+            "MD5": "70033041456689e15ea1d521016ebb35",
+            "path": "shaderpacks/Kappa_v5.2.zip"
+          }
+        },
+        {
+          "id": "Sildur's Vibrant Shaders v1.52 Extreme-VL.zip",
+          "name": "Sildur's Vibrant Shaders v1.52 Extreme-VL.zip",
+          "type": "File",
+          "artifact": {
+            "size": 142504,
+            "url": "https://awe4859.github.io/moon_server_FTP/servers/%EB%8B%AC%EB%86%8D%EC%84%9C%EB%B2%84-1.20.1/files/shaderpacks/Sildur's%20Vibrant%20Shaders%20v1.52%20Extreme-VL.zip",
+            "MD5": "82a198c41b07f33a7ebb1b9d27ada3f0",
+            "path": "shaderpacks/Sildur's Vibrant Shaders v1.52 Extreme-VL.zip"
           }
         }
       ]
