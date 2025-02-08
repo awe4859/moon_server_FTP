@@ -493,16 +493,6 @@
           }
         },
         {
-          "id": "com.blamejared:controlling:12.0.2@jar",
-          "name": "Controlling",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 115280,
-            "url": "https://awe4859.github.io/moon_server_FTP/servers/%EB%8B%AC%EB%86%8D%EC%84%9C%EB%B2%84-1.20.1/forgemods/required/Controlling-forge-1.20.1-12.0.2.jar",
-            "MD5": "952274bc9994bba9733e8747558f73fa"
-          }
-        },
-        {
           "id": "net.blay09.mods:cookingforblockheads:16.0.9@jar",
           "name": "CookingForBlockheads",
           "type": "ForgeMod",
