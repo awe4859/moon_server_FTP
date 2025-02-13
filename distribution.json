@@ -453,16 +453,6 @@
           }
         },
         {
-          "id": "net.mcreator:aquaculturedelight:1.0.0@jar",
-          "name": "Aquaculture Delight",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 101228,
-            "url": "https://awe4859.github.io/moon_server_FTP/servers/%EB%8B%AC%EB%86%8D%EC%84%9C%EB%B2%84-1.20.1/forgemods/required/aquaculture_delight_1.0.0_forge_1.20.1.jar",
-            "MD5": "d34013de56ec48d2923bb398b6d18e11"
-          }
-        },
-        {
           "id": "net.blay09.mods:balm:7.3.10@jar",
           "name": "Balm",
           "type": "ForgeMod",
