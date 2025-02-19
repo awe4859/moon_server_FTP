@@ -1,0 +1,32 @@
+{
+  "providers": [
+    {
+      "file": "minecraft:font/menu.png",
+      "type": "bitmap",
+      "chars": ["窓"],
+      "ascent": 29,
+      "height": 256
+    },
+    {
+      "file": "minecraft:font/space.png",
+      "type": "bitmap",
+      "chars": ["無"],
+      "ascent": -32768,
+      "height": -26
+    },
+    {
+      "file": "minecraft:font/player.png",
+      "type": "bitmap",
+      "chars": ["龥"],
+      "ascent": 8,
+      "height": 9
+    },
+    {
+      "file": "minecraft:font/op.png",
+      "type": "bitmap",
+      "chars": ["鸛"],
+      "ascent": 8,
+      "height": 9
+    }
+  ]
+}

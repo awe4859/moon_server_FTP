@@ -8,9 +8,9 @@
   },
   "servers": [
     {
-      "id": "달농서버-1.20.1",
-      "name": "달농서버 (Minecraft 1.20.1)",
-      "description": "달농서버 Running Minecraft 1.20.1 (Forge v47.3.22)",
+      "id": "루나타운-1.20.1",
+      "name": "루나타운 (Minecraft 1.20.1)",
+      "description": "루나타운 Running Minecraft 1.20.1 (Forge v47.3.22)",
       "icon": "https://cdn.discordapp.com/attachments/1286656355138011209/1324314188998377512/pack.png?ex=67897f73&is=67882df3&hm=ad97053e5a2a500a90afdc9c20572c216675e9c55a9372f4566607649f0e59ed&",
       "version": "1.0.0",
       "address": "118.43.72.120:25565",
@@ -438,7 +438,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 55398,
-            "url": "https://awe4859.github.io/moon_server_FTP/servers/%EB%8B%AC%EB%86%8D%EC%84%9C%EB%B2%84-1.20.1/forgemods/required/alexsdelight-1.5.jar",
+            "url": "https://awe4859.github.io/moon_server_FTP/servers/%EB%A3%A8%EB%82%98%ED%83%80%EC%9A%B4-1.20.1/forgemods/required/alexsdelight-1.5.jar",
             "MD5": "b969e136e1f9a70c42dd102ed8359b40"
           }
         },
@@ -448,7 +448,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 47428,
-            "url": "https://awe4859.github.io/moon_server_FTP/servers/%EB%8B%AC%EB%86%8D%EC%84%9C%EB%B2%84-1.20.1/forgemods/required/appleskin-forge-mc1.20.1-2.5.1.jar",
+            "url": "https://awe4859.github.io/moon_server_FTP/servers/%EB%A3%A8%EB%82%98%ED%83%80%EC%9A%B4-1.20.1/forgemods/required/appleskin-forge-mc1.20.1-2.5.1.jar",
             "MD5": "dae63cea9c951dda542a4005ceef3953"
           }
         },
@@ -458,7 +458,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 373791,
-            "url": "https://awe4859.github.io/moon_server_FTP/servers/%EB%8B%AC%EB%86%8D%EC%84%9C%EB%B2%84-1.20.1/forgemods/required/balm-forge-1.20.1-7.3.10-all.jar",
+            "url": "https://awe4859.github.io/moon_server_FTP/servers/%EB%A3%A8%EB%82%98%ED%83%80%EC%9A%B4-1.20.1/forgemods/required/balm-forge-1.20.1-7.3.10-all.jar",
             "MD5": "53ab1e5640e1378bac5a933b05519f9a"
           }
         },
@@ -468,7 +468,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 15889,
-            "url": "https://awe4859.github.io/moon_server_FTP/servers/%EB%8B%AC%EB%86%8D%EC%84%9C%EB%B2%84-1.20.1/forgemods/required/BetterPingDisplay-1.20.1-1.1.jar",
+            "url": "https://awe4859.github.io/moon_server_FTP/servers/%EB%A3%A8%EB%82%98%ED%83%80%EC%9A%B4-1.20.1/forgemods/required/BetterPingDisplay-1.20.1-1.1.jar",
             "MD5": "2a331e8f5a7cc2609d67f7975fba7d7e"
           }
         },
@@ -478,7 +478,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2613393,
-            "url": "https://awe4859.github.io/moon_server_FTP/servers/%EB%8B%AC%EB%86%8D%EC%84%9C%EB%B2%84-1.20.1/forgemods/required/cfm-forge-1.20.1-7.0.0-pre36.jar",
+            "url": "https://awe4859.github.io/moon_server_FTP/servers/%EB%A3%A8%EB%82%98%ED%83%80%EC%9A%B4-1.20.1/forgemods/required/cfm-forge-1.20.1-7.0.0-pre36.jar",
             "MD5": "faf78627dad9c9c04e7a4fa8992c54dc"
           }
         },
@@ -488,7 +488,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 815694,
-            "url": "https://awe4859.github.io/moon_server_FTP/servers/%EB%8B%AC%EB%86%8D%EC%84%9C%EB%B2%84-1.20.1/forgemods/required/cookingforblockheads-forge-1.20.1-16.0.9.jar",
+            "url": "https://awe4859.github.io/moon_server_FTP/servers/%EB%A3%A8%EB%82%98%ED%83%80%EC%9A%B4-1.20.1/forgemods/required/cookingforblockheads-forge-1.20.1-16.0.9.jar",
             "MD5": "48b7824fc141e3f7ee26459a445193dd"
           }
         },
@@ -498,7 +498,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2099945,
-            "url": "https://awe4859.github.io/moon_server_FTP/servers/%EB%8B%AC%EB%86%8D%EC%84%9C%EB%B2%84-1.20.1/forgemods/required/Croptopia-1.20.1-FORGE-3.0.4.jar",
+            "url": "https://awe4859.github.io/moon_server_FTP/servers/%EB%A3%A8%EB%82%98%ED%83%80%EC%9A%B4-1.20.1/forgemods/required/Croptopia-1.20.1-FORGE-3.0.4.jar",
             "MD5": "c7c4e6f0ff51507ad64544991dfc7454"
           }
         },
@@ -508,7 +508,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 613691,
-            "url": "https://awe4859.github.io/moon_server_FTP/servers/%EB%8B%AC%EB%86%8D%EC%84%9C%EB%B2%84-1.20.1/forgemods/required/decorative_storage-2.1212-forge-1.20.1.jar",
+            "url": "https://awe4859.github.io/moon_server_FTP/servers/%EB%A3%A8%EB%82%98%ED%83%80%EC%9A%B4-1.20.1/forgemods/required/decorative_storage-2.1212-forge-1.20.1.jar",
             "MD5": "c3080fac79448f6338aa85a441664a9c"
           }
         },
@@ -518,7 +518,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1320675,
-            "url": "https://awe4859.github.io/moon_server_FTP/servers/%EB%8B%AC%EB%86%8D%EC%84%9C%EB%B2%84-1.20.1/forgemods/required/embeddium-0.3.31+mc1.20.1.jar",
+            "url": "https://awe4859.github.io/moon_server_FTP/servers/%EB%A3%A8%EB%82%98%ED%83%80%EC%9A%B4-1.20.1/forgemods/required/embeddium-0.3.31+mc1.20.1.jar",
             "MD5": "1dfb2ee49ce9ad5d484ff3eea0d628b7"
           }
         },
@@ -528,7 +528,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 756864,
-            "url": "https://awe4859.github.io/moon_server_FTP/servers/%EB%8B%AC%EB%86%8D%EC%84%9C%EB%B2%84-1.20.1/forgemods/required/EpheroLib-1.20.1-FORGE-1.2.0.jar",
+            "url": "https://awe4859.github.io/moon_server_FTP/servers/%EB%A3%A8%EB%82%98%ED%83%80%EC%9A%B4-1.20.1/forgemods/required/EpheroLib-1.20.1-FORGE-1.2.0.jar",
             "MD5": "f8b4d202f3fc4ffaf1bb8efd79f860bd"
           }
         },
@@ -538,7 +538,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2944818,
-            "url": "https://awe4859.github.io/moon_server_FTP/servers/%EB%8B%AC%EB%86%8D%EC%84%9C%EB%B2%84-1.20.1/forgemods/required/FarmersDelight-1.20.1-1.2.6.jar",
+            "url": "https://awe4859.github.io/moon_server_FTP/servers/%EB%A3%A8%EB%82%98%ED%83%80%EC%9A%B4-1.20.1/forgemods/required/FarmersDelight-1.20.1-1.2.6.jar",
             "MD5": "3bedf3198980957b909a2ce41557960d"
           }
         },
@@ -548,7 +548,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 123034,
-            "url": "https://awe4859.github.io/moon_server_FTP/servers/%EB%8B%AC%EB%86%8D%EC%84%9C%EB%B2%84-1.20.1/forgemods/required/ferritecore-6.0.1-forge.jar",
+            "url": "https://awe4859.github.io/moon_server_FTP/servers/%EB%A3%A8%EB%82%98%ED%83%80%EC%9A%B4-1.20.1/forgemods/required/ferritecore-6.0.1-forge.jar",
             "MD5": "f52f538207a4829d7060550092ce2383"
           }
         },
@@ -558,7 +558,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1379220,
-            "url": "https://awe4859.github.io/moon_server_FTP/servers/%EB%8B%AC%EB%86%8D%EC%84%9C%EB%B2%84-1.20.1/forgemods/required/jei-1.20.1-forge-15.20.0.106.jar",
+            "url": "https://awe4859.github.io/moon_server_FTP/servers/%EB%A3%A8%EB%82%98%ED%83%80%EC%9A%B4-1.20.1/forgemods/required/jei-1.20.1-forge-15.20.0.106.jar",
             "MD5": "245af433575aef3a47ae73492196018f"
           }
         },
@@ -568,7 +568,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 7160405,
-            "url": "https://awe4859.github.io/moon_server_FTP/servers/%EB%8B%AC%EB%86%8D%EC%84%9C%EB%B2%84-1.20.1/forgemods/required/journeymap-1.20.1-5.10.3-forge.jar",
+            "url": "https://awe4859.github.io/moon_server_FTP/servers/%EB%A3%A8%EB%82%98%ED%83%80%EC%9A%B4-1.20.1/forgemods/required/journeymap-1.20.1-5.10.3-forge.jar",
             "MD5": "2181bd6b7161f06726560b9382235611"
           }
         },
@@ -578,7 +578,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 194923,
-            "url": "https://awe4859.github.io/moon_server_FTP/servers/%EB%8B%AC%EB%86%8D%EC%84%9C%EB%B2%84-1.20.1/forgemods/required/koreanpatch-forge-1.6.11+mc1.20.1.jar",
+            "url": "https://awe4859.github.io/moon_server_FTP/servers/%EB%A3%A8%EB%82%98%ED%83%80%EC%9A%B4-1.20.1/forgemods/required/koreanpatch-forge-1.6.11+mc1.20.1.jar",
             "MD5": "f3f44f46e991ce19fad6080231335d52"
           }
         },
@@ -588,7 +588,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 522886,
-            "url": "https://awe4859.github.io/moon_server_FTP/servers/%EB%8B%AC%EB%86%8D%EC%84%9C%EB%B2%84-1.20.1/forgemods/required/mcw-fences-1.1.2-mc1.20.1forge.jar",
+            "url": "https://awe4859.github.io/moon_server_FTP/servers/%EB%A3%A8%EB%82%98%ED%83%80%EC%9A%B4-1.20.1/forgemods/required/mcw-fences-1.1.2-mc1.20.1forge.jar",
             "MD5": "729a8ce749bb6deff288ea1791ff9602"
           }
         },
@@ -598,7 +598,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 517513,
-            "url": "https://awe4859.github.io/moon_server_FTP/servers/%EB%8B%AC%EB%86%8D%EC%84%9C%EB%B2%84-1.20.1/forgemods/required/mcw-lights-1.1.0-mc1.20.1forge.jar",
+            "url": "https://awe4859.github.io/moon_server_FTP/servers/%EB%A3%A8%EB%82%98%ED%83%80%EC%9A%B4-1.20.1/forgemods/required/mcw-lights-1.1.0-mc1.20.1forge.jar",
             "MD5": "539aa2ab27253c1053236e06b82374df"
           }
         },
@@ -608,7 +608,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 227925,
-            "url": "https://awe4859.github.io/moon_server_FTP/servers/%EB%8B%AC%EB%86%8D%EC%84%9C%EB%B2%84-1.20.1/forgemods/required/memoryleakfix-forge-1.17+-1.1.5.jar",
+            "url": "https://awe4859.github.io/moon_server_FTP/servers/%EB%A3%A8%EB%82%98%ED%83%80%EC%9A%B4-1.20.1/forgemods/required/memoryleakfix-forge-1.17+-1.1.5.jar",
             "MD5": "5dd9149414ca375ceab146242c6e84ab"
           }
         },
@@ -618,7 +618,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 137983,
-            "url": "https://awe4859.github.io/moon_server_FTP/servers/%EB%8B%AC%EB%86%8D%EC%84%9C%EB%B2%84-1.20.1/forgemods/required/moredelight-24.11.06-1.20-forge.jar",
+            "url": "https://awe4859.github.io/moon_server_FTP/servers/%EB%A3%A8%EB%82%98%ED%83%80%EC%9A%B4-1.20.1/forgemods/required/moredelight-24.11.06-1.20-forge.jar",
             "MD5": "7c4bcef1dc59e184e01209298c8043af"
           }
         },
@@ -628,7 +628,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 76237,
-            "url": "https://awe4859.github.io/moon_server_FTP/servers/%EB%8B%AC%EB%86%8D%EC%84%9C%EB%B2%84-1.20.1/forgemods/required/MouseTweaks-forge-mc1.20.1-2.25.1.jar",
+            "url": "https://awe4859.github.io/moon_server_FTP/servers/%EB%A3%A8%EB%82%98%ED%83%80%EC%9A%B4-1.20.1/forgemods/required/MouseTweaks-forge-mc1.20.1-2.25.1.jar",
             "MD5": "ce4b5bbb9ef6a7905c458ab599ef4cb2"
           }
         },
@@ -638,7 +638,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2851119,
-            "url": "https://awe4859.github.io/moon_server_FTP/servers/%EB%8B%AC%EB%86%8D%EC%84%9C%EB%B2%84-1.20.1/forgemods/required/oculus-mc1.20.1-1.8.0.jar",
+            "url": "https://awe4859.github.io/moon_server_FTP/servers/%EB%A3%A8%EB%82%98%ED%83%80%EC%9A%B4-1.20.1/forgemods/required/oculus-mc1.20.1-1.8.0.jar",
             "MD5": "1dd891634ac21591b5a692471f112572"
           }
         },
@@ -648,7 +648,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 120046,
-            "url": "https://awe4859.github.io/moon_server_FTP/servers/%EB%8B%AC%EB%86%8D%EC%84%9C%EB%B2%84-1.20.1/forgemods/required/okzoomer-forge-1.20-3.0.1.jar",
+            "url": "https://awe4859.github.io/moon_server_FTP/servers/%EB%A3%A8%EB%82%98%ED%83%80%EC%9A%B4-1.20.1/forgemods/required/okzoomer-forge-1.20-3.0.1.jar",
             "MD5": "cae64657bac994d5d116ef25b5978913"
           }
         },
@@ -658,7 +658,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 268241,
-            "url": "https://awe4859.github.io/moon_server_FTP/servers/%EB%8B%AC%EB%86%8D%EC%84%9C%EB%B2%84-1.20.1/forgemods/required/overweightfarming-1.20.1-2.1.0-forge.jar",
+            "url": "https://awe4859.github.io/moon_server_FTP/servers/%EB%A3%A8%EB%82%98%ED%83%80%EC%9A%B4-1.20.1/forgemods/required/overweightfarming-1.20.1-2.1.0-forge.jar",
             "MD5": "06478991ae296d15078384372446b785"
           }
         },
@@ -668,7 +668,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 265052,
-            "url": "https://awe4859.github.io/moon_server_FTP/servers/%EB%8B%AC%EB%86%8D%EC%84%9C%EB%B2%84-1.20.1/forgemods/required/right-click-harvest-3.2.0+1.20.1-forge.jar",
+            "url": "https://awe4859.github.io/moon_server_FTP/servers/%EB%A3%A8%EB%82%98%ED%83%80%EC%9A%B4-1.20.1/forgemods/required/right-click-harvest-3.2.0+1.20.1-forge.jar",
             "MD5": "23f4521a42c0f2e950919f3abeab2243"
           }
         },
@@ -678,8 +678,206 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 41044,
-            "url": "https://awe4859.github.io/moon_server_FTP/servers/%EB%8B%AC%EB%86%8D%EC%84%9C%EB%B2%84-1.20.1/forgemods/required/smoothboot(reloaded)-mc1.20.1-0.0.4.jar",
+            "url": "https://awe4859.github.io/moon_server_FTP/servers/%EB%A3%A8%EB%82%98%ED%83%80%EC%9A%B4-1.20.1/forgemods/required/smoothboot(reloaded)-mc1.20.1-0.0.4.jar",
             "MD5": "c8cd5ae14d99796fd92c95a353e96211"
+          }
+        },
+        {
+          "id": "default.json",
+          "name": "default.json",
+          "type": "File",
+          "artifact": {
+            "size": 623,
+            "url": "https://awe4859.github.io/moon_server_FTP/servers/%EB%A3%A8%EB%82%98%ED%83%80%EC%9A%B4-1.20.1/files/resourcepacks/%EB%A3%A8%EB%82%98%ED%83%80%EC%9A%B4/assets/minecraft/font/default.json",
+            "MD5": "9d0e0b90696f7af6960e8ba4c359178c",
+            "path": "resourcepacks/루나타운/assets/minecraft/font/default.json"
+          }
+        },
+        {
+          "id": "bronzebungeoppang.json",
+          "name": "bronzebungeoppang.json",
+          "type": "File",
+          "artifact": {
+            "size": 119,
+            "url": "https://awe4859.github.io/moon_server_FTP/servers/%EB%A3%A8%EB%82%98%ED%83%80%EC%9A%B4-1.20.1/files/resourcepacks/%EB%A3%A8%EB%82%98%ED%83%80%EC%9A%B4/assets/minecraft/models/custom/bronzebungeoppang.json",
+            "MD5": "ca0c7c8f0e63454421be9e71de7f83bc",
+            "path": "resourcepacks/루나타운/assets/minecraft/models/custom/bronzebungeoppang.json"
+          }
+        },
+        {
+          "id": "glodbungeoppang.json",
+          "name": "glodbungeoppang.json",
+          "type": "File",
+          "artifact": {
+            "size": 117,
+            "url": "https://awe4859.github.io/moon_server_FTP/servers/%EB%A3%A8%EB%82%98%ED%83%80%EC%9A%B4-1.20.1/files/resourcepacks/%EB%A3%A8%EB%82%98%ED%83%80%EC%9A%B4/assets/minecraft/models/custom/glodbungeoppang.json",
+            "MD5": "4d1cd73f54367f2e80326dd97a589fc9",
+            "path": "resourcepacks/루나타운/assets/minecraft/models/custom/glodbungeoppang.json"
+          }
+        },
+        {
+          "id": "none.json",
+          "name": "none.json",
+          "type": "File",
+          "artifact": {
+            "size": 106,
+            "url": "https://awe4859.github.io/moon_server_FTP/servers/%EB%A3%A8%EB%82%98%ED%83%80%EC%9A%B4-1.20.1/files/resourcepacks/%EB%A3%A8%EB%82%98%ED%83%80%EC%9A%B4/assets/minecraft/models/custom/none.json",
+            "MD5": "a949f6f548cb528252921f589d39d225",
+            "path": "resourcepacks/루나타운/assets/minecraft/models/custom/none.json"
+          }
+        },
+        {
+          "id": "silverbungeoppang.json",
+          "name": "silverbungeoppang.json",
+          "type": "File",
+          "artifact": {
+            "size": 119,
+            "url": "https://awe4859.github.io/moon_server_FTP/servers/%EB%A3%A8%EB%82%98%ED%83%80%EC%9A%B4-1.20.1/files/resourcepacks/%EB%A3%A8%EB%82%98%ED%83%80%EC%9A%B4/assets/minecraft/models/custom/silverbungeoppang.json",
+            "MD5": "ba8ce7f992f945158c9ce4df29d42371",
+            "path": "resourcepacks/루나타운/assets/minecraft/models/custom/silverbungeoppang.json"
+          }
+        },
+        {
+          "id": "glass_pane.json",
+          "name": "glass_pane.json",
+          "type": "File",
+          "artifact": {
+            "size": 226,
+            "url": "https://awe4859.github.io/moon_server_FTP/servers/%EB%A3%A8%EB%82%98%ED%83%80%EC%9A%B4-1.20.1/files/resourcepacks/%EB%A3%A8%EB%82%98%ED%83%80%EC%9A%B4/assets/minecraft/models/item/glass_pane.json",
+            "MD5": "fe9706fa3887e1a36e6323080566d765",
+            "path": "resourcepacks/루나타운/assets/minecraft/models/item/glass_pane.json"
+          }
+        },
+        {
+          "id": "paper.json",
+          "name": "paper.json",
+          "type": "File",
+          "artifact": {
+            "size": 426,
+            "url": "https://awe4859.github.io/moon_server_FTP/servers/%EB%A3%A8%EB%82%98%ED%83%80%EC%9A%B4-1.20.1/files/resourcepacks/%EB%A3%A8%EB%82%98%ED%83%80%EC%9A%B4/assets/minecraft/models/item/paper.json",
+            "MD5": "e2c597946524c9262114d96f73053e80",
+            "path": "resourcepacks/루나타운/assets/minecraft/models/item/paper.json"
+          }
+        },
+        {
+          "id": "menu.png",
+          "name": "menu.png",
+          "type": "File",
+          "artifact": {
+            "size": 25875,
+            "url": "https://awe4859.github.io/moon_server_FTP/servers/%EB%A3%A8%EB%82%98%ED%83%80%EC%9A%B4-1.20.1/files/resourcepacks/%EB%A3%A8%EB%82%98%ED%83%80%EC%9A%B4/assets/minecraft/textures/font/menu.png",
+            "MD5": "d339aecb96b13994edf7f734178dc97e",
+            "path": "resourcepacks/루나타운/assets/minecraft/textures/font/menu.png"
+          }
+        },
+        {
+          "id": "op.png",
+          "name": "op.png",
+          "type": "File",
+          "artifact": {
+            "size": 5753,
+            "url": "https://awe4859.github.io/moon_server_FTP/servers/%EB%A3%A8%EB%82%98%ED%83%80%EC%9A%B4-1.20.1/files/resourcepacks/%EB%A3%A8%EB%82%98%ED%83%80%EC%9A%B4/assets/minecraft/textures/font/op.png",
+            "MD5": "dff1cf19b986be543c6a2bfdc267a083",
+            "path": "resourcepacks/루나타운/assets/minecraft/textures/font/op.png"
+          }
+        },
+        {
+          "id": "player.png",
+          "name": "player.png",
+          "type": "File",
+          "artifact": {
+            "size": 24238,
+            "url": "https://awe4859.github.io/moon_server_FTP/servers/%EB%A3%A8%EB%82%98%ED%83%80%EC%9A%B4-1.20.1/files/resourcepacks/%EB%A3%A8%EB%82%98%ED%83%80%EC%9A%B4/assets/minecraft/textures/font/player.png",
+            "MD5": "265ef5f738d6c0dadf1404850fee7a28",
+            "path": "resourcepacks/루나타운/assets/minecraft/textures/font/player.png"
+          }
+        },
+        {
+          "id": "space.png",
+          "name": "space.png",
+          "type": "File",
+          "artifact": {
+            "size": 868,
+            "url": "https://awe4859.github.io/moon_server_FTP/servers/%EB%A3%A8%EB%82%98%ED%83%80%EC%9A%B4-1.20.1/files/resourcepacks/%EB%A3%A8%EB%82%98%ED%83%80%EC%9A%B4/assets/minecraft/textures/font/space.png",
+            "MD5": "d2c3d5015bd51b58dcd8c96b4766e169",
+            "path": "resourcepacks/루나타운/assets/minecraft/textures/font/space.png"
+          }
+        },
+        {
+          "id": "bronzebungeoppang.png",
+          "name": "bronzebungeoppang.png",
+          "type": "File",
+          "artifact": {
+            "size": 26167,
+            "url": "https://awe4859.github.io/moon_server_FTP/servers/%EB%A3%A8%EB%82%98%ED%83%80%EC%9A%B4-1.20.1/files/resourcepacks/%EB%A3%A8%EB%82%98%ED%83%80%EC%9A%B4/assets/minecraft/textures/item/bronzebungeoppang.png",
+            "MD5": "3c64f302908386cfd3a941964c0a36fc",
+            "path": "resourcepacks/루나타운/assets/minecraft/textures/item/bronzebungeoppang.png"
+          }
+        },
+        {
+          "id": "glodbungeoppang.png",
+          "name": "glodbungeoppang.png",
+          "type": "File",
+          "artifact": {
+            "size": 25514,
+            "url": "https://awe4859.github.io/moon_server_FTP/servers/%EB%A3%A8%EB%82%98%ED%83%80%EC%9A%B4-1.20.1/files/resourcepacks/%EB%A3%A8%EB%82%98%ED%83%80%EC%9A%B4/assets/minecraft/textures/item/glodbungeoppang.png",
+            "MD5": "bddf28de0a4b860d197869178fd3c4bc",
+            "path": "resourcepacks/루나타운/assets/minecraft/textures/item/glodbungeoppang.png"
+          }
+        },
+        {
+          "id": "none.png",
+          "name": "none.png",
+          "type": "File",
+          "artifact": {
+            "size": 81,
+            "url": "https://awe4859.github.io/moon_server_FTP/servers/%EB%A3%A8%EB%82%98%ED%83%80%EC%9A%B4-1.20.1/files/resourcepacks/%EB%A3%A8%EB%82%98%ED%83%80%EC%9A%B4/assets/minecraft/textures/item/none.png",
+            "MD5": "488cb0b25cbcc3b4003f2f0fe70d673c",
+            "path": "resourcepacks/루나타운/assets/minecraft/textures/item/none.png"
+          }
+        },
+        {
+          "id": "paper.png",
+          "name": "paper.png",
+          "type": "File",
+          "artifact": {
+            "size": 176,
+            "url": "https://awe4859.github.io/moon_server_FTP/servers/%EB%A3%A8%EB%82%98%ED%83%80%EC%9A%B4-1.20.1/files/resourcepacks/%EB%A3%A8%EB%82%98%ED%83%80%EC%9A%B4/assets/minecraft/textures/item/paper.png",
+            "MD5": "041ad9ebb48ef7754bca5dd4422a02ab",
+            "path": "resourcepacks/루나타운/assets/minecraft/textures/item/paper.png"
+          }
+        },
+        {
+          "id": "silverbungeoppang.png",
+          "name": "silverbungeoppang.png",
+          "type": "File",
+          "artifact": {
+            "size": 20985,
+            "url": "https://awe4859.github.io/moon_server_FTP/servers/%EB%A3%A8%EB%82%98%ED%83%80%EC%9A%B4-1.20.1/files/resourcepacks/%EB%A3%A8%EB%82%98%ED%83%80%EC%9A%B4/assets/minecraft/textures/item/silverbungeoppang.png",
+            "MD5": "35984a18a748ba610fba4bac14621002",
+            "path": "resourcepacks/루나타운/assets/minecraft/textures/item/silverbungeoppang.png"
+          }
+        },
+        {
+          "id": "pack.mcmeta",
+          "name": "pack.mcmeta",
+          "type": "File",
+          "artifact": {
+            "size": 220,
+            "url": "https://awe4859.github.io/moon_server_FTP/servers/%EB%A3%A8%EB%82%98%ED%83%80%EC%9A%B4-1.20.1/files/resourcepacks/%EB%A3%A8%EB%82%98%ED%83%80%EC%9A%B4/pack.mcmeta",
+            "MD5": "7c3ac2efe926ff25182dc66caeecd577",
+            "path": "resourcepacks/루나타운/pack.mcmeta"
+          }
+        },
+        {
+          "id": "pack.png",
+          "name": "pack.png",
+          "type": "File",
+          "artifact": {
+            "size": 23448,
+            "url": "https://awe4859.github.io/moon_server_FTP/servers/%EB%A3%A8%EB%82%98%ED%83%80%EC%9A%B4-1.20.1/files/resourcepacks/%EB%A3%A8%EB%82%98%ED%83%80%EC%9A%B4/pack.png",
+            "MD5": "a56f441852b206b2edb26e85795874b5",
+            "path": "resourcepacks/루나타운/pack.png"
           }
         },
         {
@@ -688,7 +886,7 @@
           "type": "File",
           "artifact": {
             "size": 1669167,
-            "url": "https://awe4859.github.io/moon_server_FTP/servers/%EB%8B%AC%EB%86%8D%EC%84%9C%EB%B2%84-1.20.1/files/shaderpacks/Bliss_v2.0.4_(Chocapic13_Shaders_edit).zip",
+            "url": "https://awe4859.github.io/moon_server_FTP/servers/%EB%A3%A8%EB%82%98%ED%83%80%EC%9A%B4-1.20.1/files/shaderpacks/Bliss_v2.0.4_(Chocapic13_Shaders_edit).zip",
             "MD5": "fb757db17e378d3174611d4d0698280d",
             "path": "shaderpacks/Bliss_v2.0.4_(Chocapic13_Shaders_edit).zip"
           }
@@ -699,7 +897,7 @@
           "type": "File",
           "artifact": {
             "size": 1105442,
-            "url": "https://awe4859.github.io/moon_server_FTP/servers/%EB%8B%AC%EB%86%8D%EC%84%9C%EB%B2%84-1.20.1/files/shaderpacks/BSL_v8.4.zip",
+            "url": "https://awe4859.github.io/moon_server_FTP/servers/%EB%A3%A8%EB%82%98%ED%83%80%EC%9A%B4-1.20.1/files/shaderpacks/BSL_v8.4.zip",
             "MD5": "9cbe8c2b70a992a50853875482eec66a",
             "path": "shaderpacks/BSL_v8.4.zip"
           }
@@ -710,7 +908,7 @@
           "type": "File",
           "artifact": {
             "size": 452405,
-            "url": "https://awe4859.github.io/moon_server_FTP/servers/%EB%8B%AC%EB%86%8D%EC%84%9C%EB%B2%84-1.20.1/files/shaderpacks/ComplementaryReimagined_r5.4.zip",
+            "url": "https://awe4859.github.io/moon_server_FTP/servers/%EB%A3%A8%EB%82%98%ED%83%80%EC%9A%B4-1.20.1/files/shaderpacks/ComplementaryReimagined_r5.4.zip",
             "MD5": "1a67030845ad123f56a3b5f6d8fb9b7c",
             "path": "shaderpacks/ComplementaryReimagined_r5.4.zip"
           }
@@ -721,7 +919,7 @@
           "type": "File",
           "artifact": {
             "size": 452408,
-            "url": "https://awe4859.github.io/moon_server_FTP/servers/%EB%8B%AC%EB%86%8D%EC%84%9C%EB%B2%84-1.20.1/files/shaderpacks/ComplementaryUnbound_r5.4.zip",
+            "url": "https://awe4859.github.io/moon_server_FTP/servers/%EB%A3%A8%EB%82%98%ED%83%80%EC%9A%B4-1.20.1/files/shaderpacks/ComplementaryUnbound_r5.4.zip",
             "MD5": "94f56d5c5c343b9a0f4ad7eb135f9afa",
             "path": "shaderpacks/ComplementaryUnbound_r5.4.zip"
           }
@@ -732,7 +930,7 @@
           "type": "File",
           "artifact": {
             "size": 3868665,
-            "url": "https://awe4859.github.io/moon_server_FTP/servers/%EB%8B%AC%EB%86%8D%EC%84%9C%EB%B2%84-1.20.1/files/shaderpacks/Kappa_v5.2.zip",
+            "url": "https://awe4859.github.io/moon_server_FTP/servers/%EB%A3%A8%EB%82%98%ED%83%80%EC%9A%B4-1.20.1/files/shaderpacks/Kappa_v5.2.zip",
             "MD5": "70033041456689e15ea1d521016ebb35",
             "path": "shaderpacks/Kappa_v5.2.zip"
           }
@@ -743,7 +941,7 @@
           "type": "File",
           "artifact": {
             "size": 142504,
-            "url": "https://awe4859.github.io/moon_server_FTP/servers/%EB%8B%AC%EB%86%8D%EC%84%9C%EB%B2%84-1.20.1/files/shaderpacks/Sildur's%20Vibrant%20Shaders%20v1.52%20Extreme-VL.zip",
+            "url": "https://awe4859.github.io/moon_server_FTP/servers/%EB%A3%A8%EB%82%98%ED%83%80%EC%9A%B4-1.20.1/files/shaderpacks/Sildur's%20Vibrant%20Shaders%20v1.52%20Extreme-VL.zip",
             "MD5": "82a198c41b07f33a7ebb1b9d27ada3f0",
             "path": "shaderpacks/Sildur's Vibrant Shaders v1.52 Extreme-VL.zip"
           }

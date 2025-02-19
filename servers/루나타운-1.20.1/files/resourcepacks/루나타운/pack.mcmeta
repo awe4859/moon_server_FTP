@@ -1,0 +1,10 @@
+{
+  "pack": {
+    "pack_format": 15,
+    "description": [
+      { "text": "테스트 GUI", "color": "green" },
+      { "text": "\n" },
+      { "text": "by Hungry22", "bold": true, "color": "gray" }
+    ]
+  }
+}
