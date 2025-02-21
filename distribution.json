@@ -493,6 +493,16 @@
           }
         },
         {
+          "id": "com.blamejared:crafttweaker:14.0.56@jar",
+          "name": "CraftTweaker",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3263879,
+            "url": "https://awe4859.github.io/moon_server_FTP/servers/%EB%A3%A8%EB%82%98%ED%83%80%EC%9A%B4-1.20.1/forgemods/required/CraftTweaker-forge-1.20.1-14.0.56.jar",
+            "MD5": "f4dbb9a7daa5f04919c0a410dfd92d37"
+          }
+        },
+        {
           "id": "com.epherical:croptopia:3.0.4@jar",
           "name": "Croptopia",
           "type": "ForgeMod",
