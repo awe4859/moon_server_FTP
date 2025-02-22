@@ -693,6 +693,17 @@
           }
         },
         {
+          "id": "options.txt",
+          "name": "options.txt",
+          "type": "File",
+          "artifact": {
+            "size": 6392,
+            "url": "https://awe4859.github.io/moon_server_FTP/servers/%EB%A3%A8%EB%82%98%ED%83%80%EC%9A%B4-1.20.1/files/options.txt",
+            "MD5": "1c60e7268ac50906fde3a5a738b0a9e6",
+            "path": "options.txt"
+          }
+        },
+        {
           "id": "default.json",
           "name": "default.json",
           "type": "File",
