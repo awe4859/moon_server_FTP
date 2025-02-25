@@ -613,6 +613,16 @@
           }
         },
         {
+          "id": "com.cookiecraftmods:mdm:2.1.34@jar",
+          "name": "ModernDecorMod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1383566,
+            "url": "https://awe4859.github.io/moon_server_FTP/servers/%EB%A3%A8%EB%82%98%ED%83%80%EC%9A%B4-1.20.1/forgemods/required/mdm-2.1.34-forge-1.20.1.jar",
+            "MD5": "87c17a0d9ea69c8c7c785c031180783d"
+          }
+        },
+        {
           "id": "ca.fxco:memoryleakfix:1.1.5@jar",
           "name": "Memory Leak Fix",
           "type": "ForgeMod",
